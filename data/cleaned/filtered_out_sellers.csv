@@ -1,0 +1,131 @@
+seller_id,zip_code_prefix,city,state_code,unique_index
+406822777a0b9eb5c50e442dd4cd3ec5,18500,tatui,SP,18500_tatui_SP
+5c030029b5916fed0986310385ec9009,88075,sao jose,SC,88075_sao jose_SC
+f410c8873029fcc3809b9df6d0b28914,95076,caxias do sul,SP,95076_caxias do sul_SP
+731ef20c231d9a7103a425e83fd91271,88501,lages sc,SC,88501_lages sc_SC
+78813699ffac347fe27dba345a5f1551,95711,bento goncalves,RS,95711_bento goncalves_RS
+99cd94252748d2bdde08e17858233602,12401,sao paulo,SP,12401_sao paulo_SP
+392f7f2c797e4dc077e4311bde2ab8ce,21210,rio de janeiro,RN,21210_rio de janeiro_RN
+a64e44665225d19dfc0277eeeaaccc57,19400,sao paulo,SP,19400_sao paulo_SP
+5e49e3a44bdeb5aab2684258bbd4f525,88330,balenario camboriu,SC,88330_balenario camboriu_SC
+1284de4ae8aa26997e748c851557cf0e,85301,laranjeiras do sul,SP,85301_laranjeiras do sul_SP
+8b181ee5518df84f18f4e1a43fe07923,87360,goioere,SP,87360_goioere_SP
+c3aad7dc65449ae90a5e9c3c6c1e78e0,15350,auriflama sp,SP,15350_auriflama sp_SP
+71593c7413973a1e160057b80d4958f6,3407,sao paulo sao paulo,SP,3407_sao paulo sao paulo_SP
+3d700782d7818f2c1e0d7a9e9d75fc00,86170,sertanopolis,SP,86170_sertanopolis_SP
+9b013e03b2ab786505a1d3b5c0756754,11450,vicente de carvalho,SP,11450_vicente de carvalho_SP
+5444b12c82f21c923f2639ebc722c1ea,2051,sao pauo,SP,2051_sao pauo_SP
+f626e15b7314c267e4429010866f70e9,85960,marechal candido rondon,SP,85960_marechal candido rondon_SP
+c716e0b86ed568878475b60fbb6323ad,22783,rio de janeiro,SP,22783_rio de janeiro_SP
+4be2e7f96b4fd749d52dff41f80e39dd,69900,rio branco,AC,69900_rio branco_AC
+4221a7df464f1fe2955934e30ff3a5a1,48602,bahia,BA,48602_bahia_BA
+34675b28b826facfde119785bf287dc1,85802,cascavael,PR,85802_cascavael_PR
+c8771b1a10bb99bb34d3c459c5cffb53,36512,tocantins,SP,36512_tocantins_SP
+5962468f885ea01a1b6a97a218797b0a,82040,curitiba,PR,82040_curitiba_PR
+48436dade18ac8b2bce089ec2a041202,27277,volta redonda,SP,27277_volta redonda_SP
+ceb7b4fb9401cd378de7886317ad1b47,22790,04482255,RJ,22790_04482255_RJ
+289cdb325fb7e7f891c38608bf9e0962,31570,belo horizonte,SP,31570_belo horizonte_SP
+723a46b89fd5c3ed78ccdf039e33ac63,93310,novo hamburgo rio grande do sul brasil,RS,93310_novo hamburgo rio grande do sul brasil_RS
+bb7ad8a45c027be8ab075b8e465f8ca0,88056,floranopolis,SC,88056_floranopolis_SC
+83d458c0d6d4f94295d63f091460bd60,29101,vila velha,SP,29101_vila velha_SP
+7994b065a7ffb14e71c6312cf87b9de2,29142,cariacica es,ES,29142_cariacica es_ES
+3364a91ec4d56c98e44174de954b94f6,76804,porto velho,RO,76804_porto velho_RO
+d9d43faf741ceaa8da52fdbb81d9e0e3,36010,juiz de fora,SP,36010_juiz de fora_SP
+94231344608e603693b0a8891143f65d,91520,porto alegre,SP,91520_porto alegre_SP
+11938fcc75f6902fea1d0a6f72b54a57,89900,sao miguel d oeste,SC,89900_sao miguel d oeste_SC
+2aafae69bf4c41fbd94053d9413e87ee,91901,porto alegre,RS,91901_porto alegre_RS
+4170f6a9367e6b5d6401d03ce6d54569,71906,brasilia df,DF,71906_brasilia df_DF
+596849622429351f47b32e6cae1055ff,8710,mogi das cruses,SP,8710_mogi das cruses_SP
+20a7efa9721046319bdde5d60b6b5365,88790,laguna,SP,88790_laguna_SP
+05e107217c7266362fd44b75b2cd4cc4,5353,sao paulo sp,SP,5353_sao paulo sp_SP
+cbf09e831b0c11f6f23ffb51004db972,9726,sbc sp,SP,9726_sbc sp_SP
+4aba391bc3b88717ce08eb11e44937b2,45816,arraial d ajuda porto seguro,BA,45816_arraial d ajuda porto seguro_BA
+2a167ca73899c85001a837d8fb4962f6,37540,sao paulo,SP,37540_sao paulo_SP
+f52c2422904463fdd7741f99045fecb6,9230,santo andre sao paulo,SP,9230_santo andre sao paulo_SP
+701938c450705b8ae65fc923b70f35c7,15014,s jose do rio preto,SP,15014_s jose do rio preto_SP
+1cbd32d00d01bb8087a5eb088612fd9c,3363,sp sp,SP,3363_sp sp_SP
+d4828feed4cda2cd9d6b37899a95a71e,63020,juzeiro do norte,CE,63020_juzeiro do norte_CE
+ba8e85df286308fe68a2ce83a8f8b2d6,88135,santa catarina,SC,88135_santa catarina_SC
+180c3376aff0e43dd5788709df48a843,9911,sao paulo,SP,9911_sao paulo_SP
+740205fedfe4e90ca6857bc77db0f2b4,95055,caxias do sul,SP,95055_caxias do sul_SP
+16bdc8cefd0e32a6f0824d296c5ad14a,12903,sp,SP,12903_sp_SP
+89dda63a3c907c468ec88c310ed91213,9380,maua sao paulo,SP,9380_maua sao paulo_SP
+a3082f442524a1be452e3189e003b361,81560,curitiba,SP,81560_curitiba_SP
+2156f2671501a81034d7d07f217609d0,4776,sp,SP,4776_sp_SP
+0e72c1a751b496722a6cb1f10653b62a,6280,sao paulo,SP,6280_sao paulo_SP
+a3b0df0065e264a91b7bbf5f844af5cd,9721,sao bernardo do capo,SP,9721_sao bernardo do capo_SP
+0bae85eb84b9fb3bd773911e89288d54,88301,itajai,SP,88301_itajai_SP
+df91910b6a03bb2e3358fa6a35e32f6f,9560,sao paulo,SP,9560_sao paulo_SP
+720e6cf846ea7572cbb66b743fb91e6c,8717,mogi das cruzes sp,SP,8717_mogi das cruzes sp_SP
+cf1313c6e2c01c2f4b014f97db4bcd2b,22050,rio de janeiro rio de janeiro,RJ,22050_rio de janeiro rio de janeiro_RJ
+aae5e7b457a3c72ee230a47d98fceda5,83040,sao jose dos pinhas,PR,83040_sao jose dos pinhas_PR
+fe9d9cf8631285d5982c6e2cf27fb114,36200,barbacena minas gerais,MG,36200_barbacena minas gerais_MG
+52b53f7061969fe471d119b6195da864,88301,itajai,SP,88301_itajai_SP
+06532f10282704ef4c69168b914b77be,87140,paincandu,PR,87140_paincandu_PR
+cd52a8efd71af3336b14b5039b951cc1,88136,palhoca,SP,88136_palhoca_SP
+4e42581f08e8cfc7c090f930bac4552a,13660,portoferreira,SP,13660_portoferreira_SP
+5733d806668f8712c24b9abaefbfa642,89803,chapeco,SP,89803_chapeco_SP
+8090490573c6c0aa343a7231ebcb8c86,4130,sao paulo sp,SP,4130_sao paulo sp_SP
+880ce4951cf857ab1d9e0b75c1d856f4,31255,belo horizont,MG,31255_belo horizont_MG
+20cb7c2fde3e5bf10f0bbe7394e1c6a9,86385,andira pr,PR,86385_andira pr_PR
+fa3a0b5aabb344b9a92e3524b0202123,83020,sao jose dos pinhais,SP,83020_sao jose dos pinhais_SP
+c13ef0cfbe42f190780f621ce81f2234,1207,sao paulo sp,SP,1207_sao paulo sp_SP
+d79e8478eed9999493990b44955fb22e,20081,rio de janeiro rio de janeiro,RJ,20081_rio de janeiro rio de janeiro_RJ
+f00e21b1e91a79653163b7fd8f293ff1,37795,andradas,SP,37795_andradas_SP
+ca4b77513ac2040591b0d8fae6958380,9190,sando andre,SP,9190_sando andre_SP
+2a50b7ee5aebecc6fd0ff9784a4747d6,72580,brasilia,DF,72580_brasilia_DF
+c963a25b8671419c6ce9eebe8fd03218,23943,angra dos reis rj,RJ,23943_angra dos reis rj_RJ
+615c3462099ffa940d37b17dfda19594,24855,rio de janeiro,RJ,24855_rio de janeiro_RJ
+6025c79c035c3d772133b8b8238463b2,83327,pinhais pr,PR,83327_pinhais pr_PR
+98115075dd26cb8835946fc6086f5d30,9687,ao bernardo do campo,SP,9687_ao bernardo do campo_SP
+2c538755f1ca9540af144f266e70df6c,39801,castro pires,MG,39801_castro pires_MG
+da4d149c0ddbac90557103ac0a0ec356,9861,sbc,SP,9861_sbc_SP
+d7827b2af99326a03b0ed9c7a24db0d3,86076,londrina,SP,86076_londrina_SP
+1de62b6f2fd96227629786db492433db,16021,sp,SP,16021_sp_SP
+b64d51f0435e884e8de603b1655155ae,7077,garulhos,SP,7077_garulhos_SP
+296729ffb9b684050dd24836dac4494a,80240,curitiba,SP,80240_curitiba_SP
+01fd077212124329bac32490e8ef80d9,14079,ribeirao preto sao paulo,SP,14079_ribeirao preto sao paulo_SP
+2e90cb1677d35cfe24eef47d441b7c87,2285,sao paulo,SP,2285_sao paulo_SP
+28fb0829fd777877cdc350d25cb5bd5b,15051,sao jose do rio pret,SP,15051_sao jose do rio pret_SP
+39d61be7a92eb77b7da367bd4845bc0e,13420,sao paulo,SP,13420_sao paulo_SP
+c35affa65afd250151285c5917fc1c8a,8050,sao paluo,SP,8050_sao paluo_SP
+1352e06ae67b410cdae0b2a22361167b,26051,rio de janeiro,RJ,26051_rio de janeiro_RJ
+9d5604a1f112324ad6b2aa552122e0fb,88075,florianopolis,SP,88075_florianopolis_SP
+b43d8b707f887a30f4675391098354a0,44600,ipira,SP,44600_ipira_SP
+3d2531eccfbde1d7c8db7a3a12fb267a,31340,contagem,MG,31340_contagem_MG
+a1bea7061f61f6fdd9a85a6325ba1033,6311,carapicuiba sao paulo,SP,6311_carapicuiba sao paulo_SP
+0b3f27369a4d8df98f7eb91077e438ac,7412,aruja,SP,7412_aruja_SP
+d5c530f4884a75ae0dba9c148718d278,35660,centro,MG,35660_centro_MG
+b906dd0e57f282c7089171b6ed07982e,87083,parana,PR,87083_parana_PR
+761681a821d8275bc79f552116d06869,17606,sao paulo,SP,17606_sao paulo_SP
+4b5f66b7adcf57f1ecc0d3c07dd6b177,87025,vendas creditparts com br,PR,87025_vendas creditparts com br_PR
+6f1a1263039c76e68f40a8e536b1da6a,3581,sao paulop,SP,3581_sao paulop_SP
+d1e2fe627180431ffda076abb303c56f,25900,rio de janeiro,RJ,25900_rio de janeiro_RJ
+1703bc09972dab9782e7a9194943b69f,37165,minas gerais,MG,37165_minas gerais_MG
+8060d731897e33b5c5ae575ce1e209e1,89052,blumenau,SP,89052_blumenau_SP
+11eac105f3f90a9b87b19c89d91e24f3,7411,sao paulo,SP,7411_sao paulo_SP
+3078096983cf766a32a06257648502d1,13720,scao jose do rio pardo,SP,13720_scao jose do rio pardo_SP
+cce6ab8d1682639fe45ab70234f1665f,81020,curitiba,SP,81020_curitiba_SP
+dace965ca58120f92f8d742a9fa1864b,14015,sao paulo,SP,14015_sao paulo_SP
+0b18d63d0cd1d723567903fd34a07df2,5141,sp,SP,5141_sp_SP
+8f2ce03f928b567e3d56181ae20ae952,5141,pirituba,SP,5141_pirituba_SP
+3a52d63a8f9daf5a28f3626d7eb9bd28,71900,aguas claras df,SP,71900_aguas claras df_SP
+6601ee6383e7f452be71929f8de48bbb,14027,ribeirao pretp,SP,14027_ribeirao pretp_SP
+ec5c1d94df153d473b37f880977ae58e,21320,rio de janeiro,SP,21320_rio de janeiro_SP
+6a3139c7bf09ece22a4713d956acbe5e,13790,sao sebastiao da grama sp,SP,13790_sao sebastiao da grama sp_SP
+7ad41305e96a6cab8294cd65891e9a86,28810,rio bonito,SP,28810_rio bonito_SP
+24a6daf925d9d591870a66660416de31,14078,robeirao preto,SP,14078_robeirao preto_SP
+3c487ae8f8d7542beff5788e2e0aea83,72460,gama,DF,72460_gama_DF
+67225bff54a172ff67579aaf583efd78,85960,marechal candido rondon,PA,85960_marechal candido rondon_PA
+a1474fd46fd3430168f7ec202da39408,83321,pinhais,SP,83321_pinhais_SP
+8185694b58b2ba6de20fd41ae608bbea,6764,tabao da serra,SP,6764_tabao da serra_SP
+d3891911c2feae53c52fea2bd14054e5,6760,sao paulo,SP,6760_sao paulo_SP
+8def3db7f272735afb2ecd03aeca09a7,28035,rio de janeiro,RJ,28035_rio de janeiro_RJ
+06579cb253ecd5a3a12a9e6eb6bf8f47,4007,sao paulo sp,SP,4007_sao paulo sp_SP
+42bde9fef835393bb8a8849cb6b7f245,71551,brasilia,DF,71551_brasilia_DF
+f9eedec3129e8cc6b6429c42d0808c5b,22793,rio de janeiro rio de janeiro brasil,RJ,22793_rio de janeiro rio de janeiro brasil_RJ
+7f5e4d5efad7e44b91115dd1decb65f3,12306,jacarei sao paulo,SP,12306_jacarei sao paulo_SP
+17e34d8224d27a541263c4c64b11a56b,14085,riberao preto,SP,14085_riberao preto_SP
+870d0118f7a9d85960f29ad89d5d989a,37708,pocos de caldas,MG,37708_pocos de caldas_MG
+6b9b80d53ba3676eafe60268a810b5a1,31160,belo horizonte,SP,31160_belo horizonte_SP
+778323240ce2830d68aab11794e00bfb,13600,sao paulo,SP,13600_sao paulo_SP
