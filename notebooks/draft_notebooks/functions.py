@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup
 from prophet import Prophet
 # from prophet.holidays import get_holiday_names
 # from prophet import Prophet
+import holidays
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
 from catboost import CatBoostRegressor
@@ -38,7 +39,9 @@ from wordcloud import WordCloud, STOPWORDS
 from collections import Counter
 from googletrans import Translator
 from transformers import pipeline
-from tqdm import tqdm
+import time
+import random
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 # Connection to MySQL
 from dotenv import load_dotenv
