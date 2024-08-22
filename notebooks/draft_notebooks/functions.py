@@ -13,8 +13,6 @@ from bs4 import BeautifulSoup
 
 # Machine Learning
 from prophet import Prophet
-# from prophet.holidays import get_holiday_names
-# from prophet import Prophet
 import holidays
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, MinMaxScaler
@@ -42,6 +40,7 @@ from transformers import pipeline
 import time
 import random
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import json
 
 # Connection to MySQL
 from dotenv import load_dotenv
@@ -67,6 +66,12 @@ from scipy.stats import chi2_contingency
 from scipy.stats.contingency import association
 from statsmodels.stats.proportion import proportions_ztest # pip install statsmodels
 from sklearn.preprocessing import StandardScaler
+
+# streamlit
+import streamlit as st
+import pickle
+from prophet.plot import plot_plotly
+
 
 """Data Cleaning"""
 
@@ -580,6 +585,7 @@ def insert_filtered_items(df_items, batch_size=1000):
 """Hypothesis Testing"""
 
 def normality_check(df, column_name):
+    """To check the ditribution whether it follows normal distribution or not"""
 
     column = df[column_name]
 
@@ -613,6 +619,7 @@ def normality_check(df, column_name):
         print('The test results indicate that the distribution is not significantly different from a normal distribution.')
 
 def data_normalization(df, column_name):
+    """To normalize data which doesn't follow normal distribution"""
 
     # transform the data
     log_transformed_column = np.log1p(df[column_name])
@@ -649,6 +656,8 @@ def data_normalization(df, column_name):
 
 
 def normality_check_group(df, column_name, group_column):
+    """To check normality of a grouped columns"""
+    
     unique_groups = df[group_column].unique()
     for group in unique_groups:
         group_data = df[df[group_column] == group][column_name]
@@ -680,6 +689,8 @@ def normality_check_group(df, column_name, group_column):
 
 
 def data_normalization_group(df, column_name, group_column):
+    """To normalize data of a group columns"""
+    
     unique_groups = df[group_column].unique()
     for group in unique_groups:
         group_data = df[df[group_column] == group][column_name]
@@ -716,11 +727,15 @@ def data_normalization_group(df, column_name, group_column):
 """Machine Learning"""
 
 def cyclical_encoding(data, column, max_value):
+    """To create sine cosine for time series machine learning"""
+    
     data[f'{column}_sin'] = np.sin(2 * np.pi * data[column]/max_value)
     data[f'{column}_cos'] = np.cos(2 * np.pi * data[column]/max_value)
     return data
 
 def train_and_evaluate_models(X_train_scaled, X_test_scaled, y_train, y_test, random_state=42):
+    """To train and evaluate the models"""
+    
     models = {
         'Random Forest': RandomForestRegressor(n_estimators=100, random_state=random_state),
         'XGBoost': xgb.XGBRegressor(n_estimators=200, random_state=random_state),
@@ -757,6 +772,8 @@ def train_and_evaluate_models(X_train_scaled, X_test_scaled, y_train, y_test, ra
     return performance_df
 
 def hyperparameter_tuning(X_train_scaled, X_test_scaled, y_train, y_test, previous_model_results, n_top_models=3, cv=3, random_state=42):
+    """"To perform hyperparameter tuning finding best models and parameters"""
+    
     # Select top N models from previous results
     top_models = previous_model_results.nlargest(n_top_models, 'R-squared Score')
     
