@@ -53,4 +53,4 @@ This KPI assesses customer feedback through sentiment and emotion analysis to ga
 - [Presentation slides](https://docs.google.com/presentation/d/1bc8dZVfOTsr_bVjOY3AXwJCtHIMQDww6qgk1fFb-QGA/edit#slide=id.g2f54d952ab1_0_700)
 - [PowerBI Dashboard](resources/PowerBI_dashboard/e-commerce_dashboard)
 - [Streamlit Repository](https://github.com/RosaEvasari/e-commerce-streamlit)
-- [Kanban of Project Management](https://trello.com/b/MCTPibpJ/project-management-of-final-project)
+- [Kanban](https://trello.com/b/MCTPibpJ/project-management-of-final-project)
