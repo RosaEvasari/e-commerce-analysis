@@ -78,7 +78,7 @@ This KPI evaluates the emotional tone and sentiment of customer feedback, provid
 
 ## Additional links
 - [Presentation slides](https://docs.google.com/presentation/d/1bc8dZVfOTsr_bVjOY3AXwJCtHIMQDww6qgk1fFb-QGA/edit#slide=id.g2f54d952ab1_0_700)
-- [PowerBI Dashboard](resources/PowerBI_dashboard/e-commerce_dashboard)
+- [PowerBI Dashboard](resources/PowerBI_dashboard)
 - [Streamlit App](https://e-commerce-app-rosa-evasari.streamlit.app)
 - [Streamlit Repository](https://github.com/RosaEvasari/e-commerce-streamlit)
 - [Kanban](https://trello.com/b/MCTPibpJ/project-management-of-final-project)
