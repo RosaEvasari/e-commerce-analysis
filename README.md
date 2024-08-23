@@ -18,8 +18,6 @@ The illustration below shows the relationship of the data in the database. <br>
 
 The goal of this KPI is to measure the increase in total sales over a specified period, indicating the effectiveness of market strategies.
 
-Customer Sentiment and Emotion Analysis: Assesses customer feedback through sentiment and emotion analysis to gauge customer satisfaction and identify areas for improvement.
-
 
 **2. On-Time Delivery Rate** <br>
 
