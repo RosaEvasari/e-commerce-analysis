@@ -37,6 +37,15 @@ This KPI evaluates the emotional tone and sentiment of customer feedback, provid
 
 ![Customer Experience Dashboard](/resources/charts/customers_experience_dashboard.png)
 
+## Streamlit app
+
+**Sales Prediction**
+
+![Sales Prediction Streamlit](/resources/charts/streamlit_sales_prediction.png)
+
+**Estimated Delivery Date Prediction**
+
+![ETA Prediction Streamlit](/resources/charts/streamlit_eta_prediction.png)
 
 ## Conclusion
 - Olist has achieved a 20% sales growth, indicating effective market strategies and strong market demand.
