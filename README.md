@@ -4,6 +4,8 @@
 - [Project Overview](#project-overview)
 - [Data](#data)
 - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [PowerBI Dashboard](#powerbi-dashboard)
+- [Streamlit App](#streamlit-app)
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
 - [Additional Links](#additional-links)
