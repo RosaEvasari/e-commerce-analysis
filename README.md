@@ -1,5 +1,14 @@
 # Brazilian e-commerce analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+- [Additional Links](#additional-links)
+
+
 ## Project Overview
 This project involves analyzing a Brazilian e-commerce dataset from Olist, a multi-marketplace e-commerce platform. The analysis focuses on sales performance, customer experience, and delivery accuracy, using various data science techniques including machine learning for delivery prediction and sentiment analysis. The results are visualized in a PowerBI dashboard, and a prediction tool is built with Streamlit to provide real-time sales and delivery date predictions. 
 
