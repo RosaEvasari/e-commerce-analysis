@@ -12,7 +12,6 @@ The dataset includes information on 100,000 orders made between 2016 and 2018 ac
 The illustration below shows the relationship of the data in the database. <br>
 ![Database Overview](/resources/charts/database_overview.png)
 
-
 ## Key Performance Indicator (KPI) 
 **1. Sales Growth Rate** <br>
 
@@ -27,6 +26,16 @@ The On-Time Delivery Rate KPI measures the percentage of orders delivered within
 **3. Customer Sentiment and Emotion Analysis** <br>
 
 This KPI evaluates the emotional tone and sentiment of customer feedback, providing insights into how customers perceive their shopping experience. By analyzing reviews, comments, and ratings, this KPI helps the company understand whether customers are satisfied, neutral, or dissatisfied. Positive sentiment indicates that customers are happy with their purchases and likely to return, while negative sentiment may highlight issues that need to be addressed, such as product quality or service. Emotion analysis can further reveal underlying feelings, such as frustration or delight, offering a deeper understanding of customer needs and enabling the company to enhance its overall customer experience.
+
+## PowerBI Dashboard
+
+**Sales**
+
+![Sales Dashboard](/resources/charts/sales_dashboard.png)
+
+**Customer Experience**
+
+![Customer Experience Dashboard](/resources/charts/customers_experience_dashboard.png)
 
 
 ## Conclusion
