@@ -65,7 +65,7 @@ This KPI evaluates the emotional tone and sentiment of customer feedback, provid
   
 - The on-time delivery rate of 92% shows good performance in meeting delivery expectations, leaving room for improvement either on carrier or seller performance.
   
-- The average review score of 4.1/5 indicates potential for improvement on the
+- The average review score of 4.1/5 indicates potential for improvement on the app.
 
 ## Recommendations
 - Develop targeted strategies to replicate the success of top-performing products and sellers.
